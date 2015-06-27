@@ -1,0 +1,8 @@
+{
+  "name": "Eruko",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap-sass-official": "~3.3.5",
+    "fontawesome": "~4.3.0"
+  }
+}
