@@ -3,7 +3,7 @@
         <title>Quote App</title>
 
         <link href='//fonts.googleapis.com/css?family=Lato:100' rel='stylesheet' type='text/css'>
-
+        <link rel="stylesheet" type="text/css" href="{{ elixir('css/backend.css') }}">
         <style>
             body {
                 margin: 0;
